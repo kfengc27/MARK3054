@@ -1,1 +1,1 @@
-# use Regression to Discover Consumer Preference 
+# Use Regression to Discover Consumer Preference 
