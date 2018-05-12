@@ -1,0 +1,8 @@
+Regression Results Reading 
+- Model fit: 
+  - R square: Percentage of the change in the Y variable explained by the changes in the X variables 
+  - Adjusted R square: R square adjusted to penalize the number of X variables(used to comapre different models)
+
+
+
+
